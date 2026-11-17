@@ -3,11 +3,11 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://manny-portfolio-manny-s-projects1.vercel.app"),
-  title: "MANNY® — Independent Digital Studio",
-  description: "Selected digital products, experiments and ideas by Manny — an independent developer building useful things for the web.",
+  title: "Emmanuel Falusi — Independent Digital Studio",
+  description: "Selected digital products, experiments and ideas by Emmanuel Falusi — an independent developer building useful things for the web.",
   openGraph: {
-    title: "MANNY® — Independent Digital Studio",
-    description: "A collection of digital products, experiments and ideas by Manny.",
+    title: "Emmanuel Falusi — Independent Digital Studio",
+    description: "A collection of digital products, experiments and ideas by Emmanuel Falusi.",
     type: "website",
   },
 };
