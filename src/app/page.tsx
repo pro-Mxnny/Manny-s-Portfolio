@@ -112,7 +112,7 @@ export default function Home() {
     <main>
       <div className="noise" aria-hidden="true" />
       <header className="site-header">
-        <a className="wordmark" href="#top" aria-label="Manny home">MANNY<span>®</span></a>
+        <a className="wordmark" href="#top" aria-label="Emmanuel Falusi home">EMMANUEL FALUSI</a>
         <nav aria-label="Main navigation">
           <a href="#work">Work <span>06</span></a>
           <a href="#about">About</a>
@@ -128,13 +128,13 @@ export default function Home() {
             <p className="eyebrow">THOUGHTFUL IDEAS. USEFUL TECHNOLOGY.</p>
             <h1>Making digital<br /><em>things</em> matter<span className="period">.</span></h1>
             <div className="hero-foot">
-              <p>I’m Manny — a student developer building digital products, exploring ideas and learning by making things real.</p>
+              <p>I’m Emmanuel Falusi — a student developer building digital products, exploring ideas and learning by making things real.</p>
               <a className="circle-link" href="#work" aria-label="Explore selected work"><span>↓</span></a>
             </div>
           </div>
           <div className="hero-aside">
             <div className="orbital" aria-hidden="true">
-              <div className="orbital-core">M<span>®</span></div>
+              <div className="orbital-core">EF</div>
               <div className="orbital-ring ring-a" />
               <div className="orbital-ring ring-b" />
               <div className="orbital-dot dot-a" />
@@ -184,7 +184,7 @@ export default function Home() {
       </section>
 
       <footer className="site-footer">
-        <a className="wordmark" href="#top">MANNY<span>®</span></a>
+        <a className="wordmark" href="#top">EMMANUEL FALUSI</a>
         <span>INDEPENDENTLY MADE · LAGOS, NIGERIA</span>
         <div><a href="https://github.com/pro-Mxnny" target="_blank" rel="noreferrer">GITHUB <Arrow diagonal /></a><a href="https://instagram.com/its.just.mxnny" target="_blank" rel="noreferrer">INSTAGRAM <Arrow diagonal /></a></div>
         <span>© 2026</span>
