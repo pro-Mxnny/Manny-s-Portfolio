@@ -1,4 +1,4 @@
-# MANNY® — Independent Digital Studio
+# Emmanuel Falusi — Independent Digital Studio
 
 Personal portfolio built with Next.js, React, TypeScript and custom CSS.
 
