@@ -28,11 +28,14 @@ const projects = [
   {
     number: "03",
     name: "Reclaim",
-    category: "Wellbeing · In development",
+    category: "Wellbeing · Recovery platform",
     description: "A recovery companion built around small steps, personal progress and a community that makes the journey feel less lonely.",
     stack: ["React", "Vite", "Firebase", "Express"],
-    status: "In development",
-    statusType: "building",
+    status: "Live demo",
+    statusType: "live",
+    url: "https://reclaim-manny-s-projects1.vercel.app",
+    image: "https://image.thum.io/get/width/1400/crop/900/noanimate/https://reclaim-manny-s-projects1.vercel.app/",
+    featured: true,
     visual: "reclaim",
   },
   {
